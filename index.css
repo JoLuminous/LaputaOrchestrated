@@ -2,6 +2,7 @@
   text-align: center;
   width: 900px;
   height: auto;
+  overflow: auto;
   padding: 10px;
   margin: auto;
   border: 1px solid #ccc;
